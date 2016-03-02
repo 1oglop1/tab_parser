@@ -1,0 +1,47 @@
+Tue Nov  3 06:17:17 2015
+	Acct-Session-Id = "563709D3-00000006"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "zelda"
+	NAS-IP-Address = 10.10.9.7
+	NAS-Identifier = "24a43c4c7e75"
+	NAS-Port = 0
+	Called-Station-Id = "2E-A4-3C-4D-7E-75:oa-mgmt"
+	Calling-Station-Id = "B8-4F-D5-E8-5E-FB"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "7ffdb8604979902a"
+	Timestamp = 1446527837
+
+Tue Nov  3 07:14:48 2015
+	Acct-Session-Id = "563709D3-00000006"
+	Acct-Status-Type = Interim-Update
+	Acct-Authentic = RADIUS
+	User-Name = "kalda"
+	NAS-IP-Address = 10.10.9.7
+	NAS-Identifier = "24a43c4c7e76"
+	NAS-Port = 0
+	Called-Station-Id = "2E-A4-3C-4D-7E-75:oa-mgmt"
+	Calling-Station-Id = "B8-4F-D5-E8-5E-FB"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Session-Time = 3451
+	Event-Timestamp = "Nov  3 2015 07:14:47 CET"
+	Acct-Unique-Session-Id = "7ffdb8604979902a"
+	Timestamp = 1446531288
+
+Tue Nov  3 07:24:26 2015
+	Acct-Session-Id = "563709D3-00000007"
+	Acct-Status-Type = Start
+	Acct-Authentic = RADIUS
+	User-Name = "neo"
+	NAS-IP-Address = 10.10.9.7
+	NAS-Identifier = "24a43c4c7e74"
+	NAS-Port = 0
+	Called-Station-Id = "2E-A4-3C-4D-7E-75:oa-mgmt"
+	Calling-Station-Id = "B8-4F-D5-E8-5E-FB"
+	NAS-Port-Type = Wireless-802.11
+	Connect-Info = "CONNECT 0Mbps 802.11b"
+	Acct-Unique-Session-Id = "7c3b5347f9c6f98b"
+	Timestamp = 1446531866
+
